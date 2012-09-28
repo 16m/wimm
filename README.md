@@ -9,7 +9,7 @@ Introduction
 In a context of time optimisation, we are constantly looking for new ways to
 increase productivity and to gain time. Maybe you have to take the metro at the
 end of the day. What about knowing when the next trains will be at your station
-in one unique command ? Do you still have the time to finish this patch ? Can
+with one unique command ? Do you still have the time to finish this patch ? Can
 you start a new task ? To all these questions wimm tries to answer.
 
 ![Metro display](http://i.imgur.com/OcsjA.jpg "Metro display in Paris")
