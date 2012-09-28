@@ -11,4 +11,4 @@ increase productivity and to gain time. Maybe you have to take the metro at the
 end of the day. What about knowing when the next trains will be at your station
 in one unique command ?
 
-->![Metro display](http://i.imgur.com/OcsjA.jpg "Metro display in Paris")<-
+-> ![Metro display](http://i.imgur.com/OcsjA.jpg "Metro display in Paris") <-
