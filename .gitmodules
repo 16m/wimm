@@ -1,0 +1,3 @@
+[submodule "curl-class"]
+	path = curl-class
+	url = https://github.com/skorpios/curl-class.git
