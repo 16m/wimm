@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 
-if (!is_file('curl-class/Curl.php'))
+if (!is_file(dirname(__FILE__).'/curl-class/Curl.php'))
   {
     echo '/!\ Missing Curl dependency. Run :'.PHP_EOL;
     echo '$ git submodule init'.PHP_EOL.'$ git submodule update'.PHP_EOL.PHP_EOL;
